@@ -1,10 +1,11 @@
 // ==UserScript==
 // @name         Old Character AI Bypass
 // @namespace    http://tampermonkey.net/
-// @version      1.0
+// @version      1.1
 // @description  Continue using old.character.ai after the developers "disabled" it.
-// @author       YourName
-// @match        https://old.character.ai/*
+// @author       VallionXD
+// @match        *://old.character.ai/*
+// @match        *://beta.character.ai/*
 // @grant        none
 // @updateURL    https://raw.githubusercontent.com/VallionXD/Old-Character-AI/main/old-character-ai.user.js
 // @downloadURL  https://raw.githubusercontent.com/VallionXD/Old-Character-AI/main/old-character-ai.user.js
