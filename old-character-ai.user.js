@@ -7,8 +7,8 @@
 // @match        *://old.character.ai/*
 // @match        *://beta.character.ai/*
 // @grant        none
-// @updateURL    https://raw.githubusercontent.com/VallionXD/Old-Character-AI/main/old-character-ai.user.js
-// @downloadURL  https://raw.githubusercontent.com/VallionXD/Old-Character-AI/main/old-character-ai.user.js
+// @updateURL    https://github.com/VallionXD/Old-Character-AI/releases/latest/download/old-character-ai.user.js
+// @downloadURL  https://github.com/VallionXD/Old-Character-AI/releases/latest/download/old-character-ai.user.js
 // @run-at       document-start
 // ==/UserScript==
 
