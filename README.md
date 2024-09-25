@@ -24,7 +24,7 @@ Then when you are on the extension page, click the button to add the extension t
 # Installing Userscript
 > How to install the userscript.
 
-The reccommended way to install this is by clicking [This Link.](https://github.com/VallionXD/Old-Character-AI/releases/latest/download/old-character-ai.user.js)
+The recommended way to install this is by clicking [This Link.](https://github.com/VallionXD/Old-Character-AI/releases/latest/download/old-character-ai.user.js)
 
 You can install the userscript from the file in the source named `old-character-ai.user.js`, or go to the latest release and get the file there.
 
