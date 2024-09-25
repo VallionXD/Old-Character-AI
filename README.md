@@ -16,7 +16,7 @@
 
 To install the extension, visit one of the two below based on what browser you have. If you are on mobile, I don't know if they have a userscripts app / extension.
 
-- `Chrome`: https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo
+- `Chrome`: [https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo](https://chromewebstore.google.com/detail/tampermonkey-legacy/lcmhijbkigalmkeommnijlpobloojgfn) *Edited because apparently tampermonkey legacy can fix for chrome*
 - `Firefox`: https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/
 
 Then when you are on the extension page, click the button to add the extension to your browser, and if it asks you to confirm, press yes or any button that tells the browser to continue.
